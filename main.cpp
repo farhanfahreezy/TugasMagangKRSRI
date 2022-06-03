@@ -1,8 +1,9 @@
-#include <iostream>
 // Sesuaikan header
-#include "objek.h"
+#include <iostream>
 #include "interface.h"
 #include "peta.h"
+#include "objek.h"
+
 using namespace std;
 
 int main(){

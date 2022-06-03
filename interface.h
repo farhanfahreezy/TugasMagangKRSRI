@@ -1,7 +1,7 @@
 // Sesuaikan header
-#ifndef INTERFACE_H
-#define INTERFACE_H
-#include<iostream>
+#ifndef __INTERFACE_H
+#define __INTERFACE_H
+#include <iostream>
 using namespace std;
 
 // Variabel yang menyatakan jumlah korban dan lilin pada peta

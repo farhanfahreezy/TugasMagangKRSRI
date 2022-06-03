@@ -1,7 +1,6 @@
-#ifndef PETA_H
-#define PETA_H
-#include<iostream>
-using namespace std;
+// Tuliskan Header Terlebih dahulu
+#ifndef __PETA_H
+#define __PETA_H
 
 /**
  * @brief Fungsi untuk membuat peta persegi dengan ukuran tertentu
